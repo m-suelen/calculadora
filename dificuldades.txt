@@ -1,0 +1,6 @@
+Exercício calculadora simples HTML e CSS 
+usando grid layout. Nesse desafio tive dificuldade 
+para encaixar os elementos na grid, a mesclagem 
+de linhas e colunas e o topo. Revi algumas
+aulas e alguns exemplos para entender melhor e fiz 
+alguns testes para poder chegar no resultado final. 
